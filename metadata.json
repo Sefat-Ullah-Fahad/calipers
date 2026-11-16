@@ -1,0 +1,6 @@
+{
+  "name": "Calipers R Us",
+  "description": "Custom Brake Caliper Painting, Wheels & Custom Painting, Rim Repair, Suspension, Paintless Dent Repair & Dealership Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
